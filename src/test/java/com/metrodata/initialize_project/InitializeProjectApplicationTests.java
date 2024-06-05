@@ -8,6 +8,7 @@ class InitializeProjectApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Bisa");
 	}
 
 }
